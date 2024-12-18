@@ -1,0 +1,9 @@
+[package]
+name = "aoc_2024_pretty"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "day_1"
+
+[dependencies]
