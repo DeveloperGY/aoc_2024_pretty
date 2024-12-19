@@ -15,7 +15,7 @@ fn main() {
         .sum::<u32>();
 
     println!(
-        "Advent of Code 2024 - Day 3\n[Part 1] Total: {}\n[Part 2] Flagged Total: {}",
+        "Advent of Code 2024 - Day 3\n[Part 1] All Mul Total: {}\n[Part 2] Enabled Mul Total: {}",
         mul_total, flagged_mul_total
     );
 }
